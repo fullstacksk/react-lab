@@ -68,3 +68,75 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+<!-- Headings -->
+> Headings
+# Heading 1
+## Heading 2
+---
+### Heading 3
+---
+#### Heading 4
+___
+##### Heading 5
+---
+###### Heading 6
+___
+
+
+<!-- Horizontal Line -->
+
+> Horizontal Line
+___
+
+<!-- Code Snippet -->
+>Code Snippet
+
+```javascript
+
+    const addTwoNumber = (num1, num2){
+        return num1+num2;
+    }
+
+```
+
+<!-- Table -->
+> Table
+
+| Name  | Mobile    | Address|
+|-------|-----------|---------|
+|Shailendra|8709791139| Patna, Bihar|
+|Chethan|8709791139|  Bengaluru, Karnatka|
+|Shabrish|8709791139| Bengaluru, Karnatka|
+|Murali|8709791139| Bengaluru, Karnatka|
+
+<!-- Link -->
+> Link
+
+[Linkbook](http://linkbook.in "Linkbook")
+
+<!-- Image -->
+> Image as A Link
+
+
+[![Swayaan Logo](https://lh3.googleusercontent.com/proxy/KiqFekG4USlaPEUef39R_bw-tLRjDnZYqhQvaS5-Ox5TF7x9qWDVTM_xd6--qVmhJ_QuzFbLFLpZzZ_XbstUV7pWxZMVizNY5u0hSfiF1rcht6Z4 "Swayaan Digital Solution Pvt Ltd")](http://swayaan.com)
+
+<!-- Ul List -->
+> List
+
+* List Item 1
+* List Item 2
+* List Item 3
+    * Nested List Item 1
+    * Nested List Item 2
+    * Nested List Item 3
+
+<!-- Task List -->
+>Task List
+
+* [x] Task 1
+* [x] Task 1
+* [x] Task 1
+* [ ] Task 1

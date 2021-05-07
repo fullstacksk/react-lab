@@ -1,0 +1,29 @@
+.container {
+	display: flex;
+	align-items: center;
+	/* height: 100vh; */
+}
+.items {
+	display: flex;
+	overflow: hidden;
+}
+
+.items.active {
+	background-color: blanchedalmond;
+	cursor: grabbing;
+	cursor: -webkit-grabbing;
+	transform: scale(1);
+}
+
+.item {
+	min-width: 100px;
+	height: 200px;
+	background-color: aquamarine;
+}
+
+.item {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: .5rem;
+}
